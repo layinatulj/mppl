@@ -97,15 +97,15 @@ body{
 	
 	<div id="menu">
 		<ul>
-			<li class="utama" ><a href="/uasayin/index.php" class="klik">Beranda</a></li>
+			<li class="utama" ><a href="/mppl/index.php" class="klik">Beranda</a></li>
 			<li class="utama" ><a href="" class="klik">Produk</a>
 				<ul>
-					<li ><a href="/uasayin/tambah_produk.php" class="klik">Tambah Produk</a></li>
+					<li ><a href="/mppl/tambah_produk.php" class="klik">Tambah Produk</a></li>
 				</ul>
 			</li>
 			<li class="utama"><a href="" class="klik">Profile</a>
 				<ul>
-					<li ><a href="/uasayin/profile.php" class="klik">Lihat Profile</a></li>
+					<li ><a href="/mppl/profile.php" class="klik">Lihat Profile</a></li>
 				</ul>
 			<li class="utama" style="float:right;"><a href="logout.php" class="klik">Logout</a></li>
 		</ul>
